@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">simpleShoppingList</string>
+    <string name="choose_item_button">Choose item</string>
+    <string name="text_one">one</string>
+    <string name="toast_messages_selected_product">Този продукт вече е избран, моля изберете друг продукт!</string>
+</resources>

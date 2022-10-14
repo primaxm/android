@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SelectItemActivity"
+    android:orientation="vertical"
+    android:gravity="top">
+
+    <Button
+        android:id="@+id/cheese"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5sp"
+        android:text="Cheese" />
+
+    <Button
+        android:id="@+id/rice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5sp"
+        android:text="Rice" />
+
+    <Button
+        android:id="@+id/gum"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5sp"
+        android:text="Gum" />
+
+    <Button
+        android:id="@+id/sandwich"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5sp"
+        android:text="Sandwich" />
+
+    <Button
+        android:id="@+id/waffles"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5sp"
+        android:text="Waffles" />
+
+    <Button
+        android:id="@+id/coca_cola"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5sp"
+        android:text="Coca Cola" />
+
+    <Button
+        android:id="@+id/pizza"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5sp"
+        android:text="Forzen pizza" />
+
+    <Button
+        android:id="@+id/spaggeti"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5sp"
+        android:text="Spaggeti" />
+
+    <Button
+        android:id="@+id/salt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5sp"
+        android:text="Salt" />
+
+    <Button
+        android:id="@+id/shugar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5sp"
+        android:text="Shugar" />
+
+</LinearLayout>
